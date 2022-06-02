@@ -5,7 +5,7 @@
 Entrez les paramètres suivant, puis télécharger le fichier : 
 ![image](https://user-images.githubusercontent.com/81636746/171740588-d8eb4e60-0d0b-488f-8efa-bc3ae59d5324.png)
 
-*L'exécuter sur la VM avec la commande : *
+*L'exécuter sur la VM avec la commande :*
 
 ```
 sudo openvpn [filename].ovpn
