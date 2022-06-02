@@ -24,7 +24,7 @@ ping 10.129.141.136
 ### What does the acronym VM stand for?
 Virtual Machine
 
-### What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.
+### <u>What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.</u>
 terminal
 
 ### What service do we use to form our VPN connection into HTB labs?
