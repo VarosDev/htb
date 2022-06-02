@@ -24,25 +24,25 @@ ping 10.129.141.136
 ### What does the acronym VM stand for?
 Virtual Machine
 
-### <u>What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.</u>
+### ___What tool do we use to interact with the operating system in order to issue commands via the command line, such as the one to start our VPN connection? It's also known as a console or shell.___
 terminal
 
-### What service do we use to form our VPN connection into HTB labs?
+### ___What service do we use to form our VPN connection into HTB labs?___
 Openvpn
 
-### What is the abbreviated name for a 'tunnel interface' in the output of your VPN boot-up sequence output?
+### ___What is the abbreviated name for a 'tunnel interface' in the output of your VPN boot-up sequence output?___
 tun
 
-### What tool do we use to test our connection to the target with an ICMP echo request?
+### ___What tool do we use to test our connection to the target with an ICMP echo request?___
 ping
 
-### What is the name of the most common tool for finding open ports on a target?
+### ___What is the name of the most common tool for finding open ports on a target?___
 nmap
 
-### What service do we identify on port 23/tcp during our scans?
+### ___What service do we identify on port 23/tcp during our scans?___
 telnet
 
-### What username is able to log into the target over telnet with a blank password?
+### ___What username is able to log into the target over telnet with a blank password?___
 root
 
 ## Récupérer le flag final
