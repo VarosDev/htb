@@ -52,6 +52,7 @@ nmap -sC -sV 10.129.141.136
 ```
 
 On a alors :
+
 ![image](https://user-images.githubusercontent.com/81636746/171954297-c9faefa2-0ffd-42ac-a18a-2b4f2738ca4d.png)
 
 ### ___From your scans, what OS type is running on the target?___ 
