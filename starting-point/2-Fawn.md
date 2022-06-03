@@ -67,13 +67,13 @@ ftp> Login : anonymous
 ftp> Password : anonymous
 ```
 
-___Transférer le flag sur la VM : ___
+___Transférer le flag sur la VM :___
 ```
 ftp> ls
 ftp> get flag.txt
 ```
 
-___L'ouvrir sur la VM : ___
+___L'ouvrir sur la VM :___
 ```
 cat flag.txt
 ```
