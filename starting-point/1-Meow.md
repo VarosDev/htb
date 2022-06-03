@@ -1,5 +1,7 @@
 # Premier Starting Point - Meow
 
+⚠️⚠️ -- Attention ce topic solutionne le Starting Point, si vous ne voulez pas voir les réponses, merci de ne pas lire ce topic. -- ⚠️⚠️
+
 ## Connexion à la VM
 
 Entrez les paramètres suivant, puis télécharger le fichier : 
